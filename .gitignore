@@ -1,0 +1,13 @@
+*
+!*/
+
+!*.py
+
+!.gitignore
+!README.md
+!requirements.txt
+
+venv/
+__pycache__/
+.idea/
+.vscode/
