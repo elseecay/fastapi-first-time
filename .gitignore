@@ -3,9 +3,13 @@
 
 !*.py
 
+!migrations/*
+
 !.gitignore
 !README.md
 !requirements.txt
+!alembic.ini
+!dataset.xlsx
 
 venv/
 __pycache__/
